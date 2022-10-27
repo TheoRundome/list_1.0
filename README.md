@@ -1,2 +1,4 @@
 # list_1.0
-Python project
+Python project.
+Simple program that help to make a list for grocery store.
+
