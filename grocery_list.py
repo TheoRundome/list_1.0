@@ -23,6 +23,8 @@ file = open('list', 'w')
 for item in list:file.write(item + '\n')
 file.close()
 os.system('cat list')
-print()
-print('thx!')
+
+total = len(list)
+print(f'Total = {total} items')
+print('\nthx!')
 
